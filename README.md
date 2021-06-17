@@ -7,15 +7,15 @@ I am interested in learning DS, cloud computing and would 💖 to grow my knowle
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Fullstack Web Development & Flutter Development.
+- 🔭 I’m currently working on Fullstack Web Development, Automation Testing & Flutter Development.
 - ⚡ I have completed tranings in Cloud Computing (AWS), web Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Flutter Developers.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Fullstack web - App Development.
+- 💬 possess good knowledge in Data Structures and Algorithms, Computer Networks, Operating systems, DBMS.
 
 <br/>
 
----
 
 <details>
 <summary>
@@ -41,11 +41,13 @@ Languages and Tools🛠:
 <code>MySql</code>
 </details>
 
+
 <details>
 <summary> Connect with me🤝: </summary>  
 
 <br/>
 
+  
 <a href="https://github.com/dans77777">
   <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
