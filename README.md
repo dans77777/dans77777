@@ -41,10 +41,6 @@ Languages and Tools🛠:
 <code>MySql</code>
 </details>
 
----
-
----
-
 <details>
 <summary> Connect with me🤝: </summary>  
 
