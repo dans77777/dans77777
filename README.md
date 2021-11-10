@@ -4,13 +4,14 @@
 I am Computer Engineering student and a self learner having the ability to work in a challenging environment.<br/>
 I have done Internships as a Software Developer as well as backend Developer.<br/>
 I am interested in learning DS, cloud computing and would 💖 to grow my knowledge in these Technologies.
+I love to contribute towards Open source ⚡
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+
 
 - 🔭 I’m currently working on Fullstack Web Development, Automation Testing & Flutter Development.
 - ⚡ I have completed tranings in Cloud Computing (AWS), web Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Flutter Developers.
-- 🤔 I’m looking for help with Open source Contribution.
+- 🤔 I’m always ready for Open source Contribution.
 - 💬 Ask me about Fullstack web - App Development.
 - 💬 possess good knowledge in Data Structures and Algorithms, Computer Networks, Operating systems, DBMS.
 
