@@ -1,10 +1,13 @@
 
 
 ### DHANASHREE GODASE:
-I am Computer Engineering student and a self learner having the ability to work in a challenging environment.<br/>
-I have done Internships as a Software Developer as well as backend Developer.<br/>
-I am interested in learning DS, cloud computing and would 💖 to grow my knowledge in these Technologies.
-I love to contribute towards Open source ⚡
+Hello 👋🏻, I'm Dhanashree Godase, 2022 batch Undergraduate student focused in Computer Science from MIT World Peace University (9.64 CGPA). who is interested in Software Development, Developer Relations and Product Management. Preferred pronouns: She/Her/Hers 👩🏻
+
+Currently, I'm pursuing my 4th year with internship experiences to work with industry experts in domains : **Web / Mobile application development, Back-End Development**  👩🏻‍💻 . I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ **PHP, MYSQL , FLUTTER, GCP**.
+I am open source contributor having strong knowledge in **Data structures and algorithms using C++, Computer networks, operating systems, DBMS , System Design**. 
+
+I have 2 years of experience in the software development intern role throughout my student life via global technical communities like Major leauge hacking Fellow, Backend developer CDE and developer at Supanth solutions etc.
+**I have also worked upon application which is helping to poor children and NGO's in India and I like to collaborate with people from diffrent backgrounds** ✍🏻.
 
 
 
