@@ -18,8 +18,7 @@ I have 2 years of experience in the software development intern role throughout 
 - 💬 Ask me about Fullstack web - App Development.
 - 💬 possess good knowledge in Data Structures and Algorithms, Computer Networks, Operating systems, DBMS.
 - reach out to me on dsgodase22@gmail.com.
-- Leetcode: https://leetcode.com/code77777/
-- LinkedIn: https://www.linkedin.com/in/dhanashree-godase-9513861a8/
+
 
 <br/>
 
@@ -56,11 +55,15 @@ Languages and Tools🛠:
 
   
 <a href="https://github.com/dans77777">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img align="left" alt="Dans's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/dhanashree-godase-9513861a8/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="Dans's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+  
+  <a href="https://leetcode.com/code77777/">
+  <img align="left" alt="leetcode" width="22px" src="https://tse2.mm.bing.net/th?id=OIP.5sfi252DgFWnuwUNHhwlXwAAAA&pid=Api&P=0" />
 </a>
 
 <br/>
