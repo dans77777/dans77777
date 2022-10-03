@@ -1,22 +1,25 @@
 
 
 ### DHANASHREE GODASE:
-Hello 👋🏻, I'm Dhanashree Godase, 2022 batch Undergraduate student focused in Computer Science from MIT World Peace University (9.64 CGPA). who is interested in Software Development, Developer Relations and Product Management. Preferred pronouns: She/Her/Hers 👩🏻
+Hello 👋🏻, I'm Dhanashree Godase, a Data Engineer who is interested in Software Development, Developer Relations and Product Management. Preferred pronouns: She/Her/Hers 👩🏻
 
-Currently, I'm pursuing my 4th year with internship experiences to work with industry experts in domains : **Web / Mobile application development, Back-End Development**  👩🏻‍💻 . I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ **PHP, MYSQL , FLUTTER, GCP**.
-I am open source contributor having strong knowledge in **Data structures and algorithms using C++, Computer networks, operating systems, DBMS , System Design**. 
+Currently, I'm working as a Data Engineer with internship experiences to work with industry experts in domains : **Web / Mobile application development, Back-End Development**  👩🏻‍💻 . I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ **PHP, MYSQL , FLUTTER, GCP**.
+I am open source contributor having 15+ production level contributions in the huge open-source projects. I have strong knowledge in **Data structures and algorithms using C++, Computer networks, operating systems, DBMS , System Design**. 
 
-I have 2 years of experience in the software development intern role throughout my student life via global technical communities like Major leauge hacking Fellow, Backend developer CDE and developer at Supanth solutions etc.
+I have 2 years of experience in the software development intern role throughout my student life via global technical communities like Major leauge hacking Fellow, Backend developer CDE and developer at Supanth solutions etc. I am a Google Cloud Certified - Associate Cloud Engineer.
 **I have also worked upon application which is helping to poor children and NGO's in India and I like to collaborate with people from diffrent backgrounds** ✍🏻.
 
 
 
 - 🔭 I’m currently working on Fullstack Web Development, Automation Testing & Flutter Development.
-- ⚡ I have completed tranings in Cloud Computing (AWS), web Development.
+- ⚡ I have completed tranings in Cloud Computing (AWS), web Development and I am a Google Cloud Certified - Associate Cloud Engineer..
 - 👯 I’m looking to collaborate with Fullstack Web and Flutter Developers.
 - 🤔 I’m always ready for Open source Contribution.
 - 💬 Ask me about Fullstack web - App Development.
 - 💬 possess good knowledge in Data Structures and Algorithms, Computer Networks, Operating systems, DBMS.
+- reach out to me on dsgodase22@gmail.com.
+- Leetcode: https://leetcode.com/code77777/
+- LinkedIn: https://www.linkedin.com/in/dhanashree-godase-9513861a8/
 
 <br/>
 
