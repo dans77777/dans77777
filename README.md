@@ -1,9 +1,9 @@
 
 
 ### DHANASHREE GODASE:
-Hello 👋🏻, I'm Dhanashree Godase, a Data Engineer who is interested in Software Development, Developer Relations and Product Management. Preferred pronouns: She/Her/Hers 👩🏻
+Hello 👋🏻, I'm Dhanashree Godase, a software Engineer who is interested in Software Development, Developer Relations and Product Management. Preferred pronouns: She/Her/Hers 👩🏻
 
-Currently, I'm working as a Data Engineer with internship experiences to work with industry experts in domains : **Web / Mobile application development, Back-End Development**  👩🏻‍💻 . I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ **PHP, MYSQL , FLUTTER, GCP**.
+Currently, I'm working as a software Engineer with internship experiences to work with industry experts in domains : **Web / Mobile application development, Back-End Development**  👩🏻‍💻 . I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ **PHP, MYSQL , FLUTTER, GCP**.
 I am open source contributor having 15+ production level contributions in the huge open-source projects. I have strong knowledge in **Data structures and algorithms using C++, Computer networks, operating systems, DBMS , System Design**. 
 
 I have 2 years of experience in the software development intern role throughout my student life via global technical communities like Major leauge hacking Fellow, Backend developer CDE and developer at Supanth solutions etc. I am a Google Cloud Certified - Associate Cloud Engineer.
